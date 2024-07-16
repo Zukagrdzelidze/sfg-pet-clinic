@@ -14,9 +14,9 @@
     <packaging>pom</packaging>
     <name>sfg-pet-clinic</name>
 	<description>sfg-pet-clinic</description>
-    <modules>
-        <module>pet-clinic-data</module>
-        <module>pet-clinic-web</module>
+	<modules>
+		<module>pet-clinic-data</module>
+		<module>pet-clinic-web</module>
 	</modules>
     <properties>
 		<java.version>17</java.version>
